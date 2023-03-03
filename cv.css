@@ -1,0 +1,43 @@
+
+/* header, section {display: flex;
+margin: 10px; } */
+#yo {margin: 15px;
+     margin-top: 0;
+     }
+
+#fo {
+     height: 220px;
+      width: 200px; 
+      margin: 25px;
+      border: 5px solid cadetblue;
+      border-radius: 50%;
+        
+}     
+
+
+#ar {display: flex;
+margin: 10px;}
+
+/*#pr {margin-top: 20px;
+     margin-left: 10px;}
+*/
+ /* img { height: 100px;
+      width: 100px; 
+      margin: 25px;
+      border: 5px solid burlywood;
+       }
+*/
+ul {color: cadetblue;    
+margin-top: 20px;
+margin-left: 10px; 
+}
+
+li {margin: 10px;}
+
+#fb {color: rgba(15, 69, 44, 0.815);}
+
+body {background-color: gainsboro;
+       }
+
+p {padding: 50px;}
+
